@@ -1,13 +1,13 @@
 # Teradata Performance Toolkit
 
 **Kanishk Trivedi** · Teradata DBA & Performance Engineer  
-[GitHub](https://github.com/gokurishu) · kanishk.trivedi@delta.exchange
+[GitHub](https://github.com/gokurishu) · gokurishu@gmail.com
 
 ---
 
 ## About
 
-A curated collection of production-grade Teradata SQL queries built and battle-tested in a large-scale enterprise EDW environment in the telecom industry. Covers the full Teradata DBA toolkit: performance monitoring, space management, workload analysis, table optimization, and system maintenance.
+A curated collection of production grade Teradata SQL queries built and battle-tested in a large-scale enterprise EDW environment in the telecom industry. Covers the full Teradata DBA toolkit: performance monitoring, space management, workload analysis, table optimization, and system maintenance.
 
 ---
 
