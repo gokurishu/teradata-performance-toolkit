@@ -162,3 +162,18 @@ These queries were built for a large-scale **Teradata EDW** environment supporti
 ---
 
 *All queries use PDCRINFO historical tables and DBC system views, standard Teradata DBA tooling.*
+
+---
+
+## Disclaimer
+
+The queries in this repository are shared as **generic SQL patterns** for educational and reference purposes only.
+
+- These queries represent common Teradata DBA techniques and are not proprietary to any organisation
+- No warranty is given as to their correctness, completeness, or fitness for any particular environment
+- All database names, table names, and usernames appearing in the queries are illustrative only and should be replaced with values appropriate to your own environment before use
+- The author accepts no liability for data loss, system disruption, performance degradation, or any other damage arising from the use or misuse of these queries
+- You are solely responsible for testing and validating any query before running it in a production environment
+- Nothing in this repository constitutes professional advice of any kind
+
+By using any query in this repository, you agree that you do so entirely at your own risk.
