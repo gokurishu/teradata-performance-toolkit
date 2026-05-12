@@ -1,0 +1,1 @@
+(EXTRACT(DAY    FROM (a.FirstRespTime - a.starttime DAY(4) TO SECOND)) * 86400) + (EXTRACT(HOUR   FROM (a.FirstRespTime - a.starttime DAY(4) TO SECOND)) * 3600) + (EXTRACT(MINUTE FROM (a.FirstRespTime - a.starttime DAY(4) TO SECOND)) * 60) +  EXTRACT(SECOND FROM (a.FirstRespTime - a.starttime  DAY(4) TO SECOND))  as runtime
